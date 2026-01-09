@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StudyStreak AI",
+  "description": "An AI-powered study tracking application for Bangladesh HSC Inter 2nd Year Science students. Features include localized UI (Bangla/English), study timer, streak tracking, and an offline AI coach.",
+  "requestFramePermissions": []
+}
